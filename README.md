@@ -100,10 +100,15 @@ Determine whether a number is:
 
 **For Sign Identification:**
 
-```
-Enter a number: -5  
-Output: The number is negative.
-```
+Enter a number of your choice: 10
+The given number is Positive
+
+Enter a number of your choice: 0
+The given number is Zero
+
+Enter a number of your choice: -99
+The given number is Negative
+
 
 **For Grading System:**
 
