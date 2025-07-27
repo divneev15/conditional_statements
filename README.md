@@ -101,31 +101,38 @@ Determine whether a number is:
 **For Sign Identification:**
 
 Enter a number of your choice: 10
+
 The given number is Positive
 
 Enter a number of your choice: 0
+
 The given number is Zero
 
 Enter a number of your choice: -99
+
 The given number is Negative
 
 
 **For Grading System:**
 
---------------------------------------
-     Student Marks Entry System    
----------------------------------------
+
+     -=Student Marks Entry System=-  
+
 Enter marks for Chemistry (0 - 100): 67
+
 Enter marks for Mathematics (0 - 100): 87
+
 Enter marks for Physics (0 - 100): 99
+
 Enter marks for C-Programming (0 - 100): 55
+
 Enter marks for Python (0 - 100): 89
 
-========== #STUDENT RESULT# ==========
+=======-=== #STUDENT RESULT# ==-========
 
 Subject           Marks
 
-------------------------
+
 Chemistry: 67
 
 Mathematics: 87
@@ -136,7 +143,7 @@ C-Programming: 55
 
 Python: 89
 
-------------------------
+
 Total Marks: 397/500
 
 Percentage : 79.40%
@@ -145,7 +152,6 @@ Grade      : B+
 
 Status     : PASSED
 
----------------------------------
 
 
 **For Quadrant Detection:**
