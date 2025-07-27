@@ -63,11 +63,11 @@ Used to combine multiple conditions:
   * Student’s grade based on percentage
   * Location of a point in a specific quadrant or on an axis/origin
 
-### **Applications**
+### **Algorithum**
 
 **1. Sign Identification**
 
-Determine whether a number is:
+Determine whether a the user provided number is:
 
 * Positive
 * Negative
