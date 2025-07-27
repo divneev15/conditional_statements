@@ -1,4 +1,4 @@
-# Cpp Experiment 3: Exploring Decision-Making Statements
+# C++ Experiment 3: Exploring Decision-Making Statements
 
 ### **Aim**
 
