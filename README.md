@@ -116,7 +116,7 @@ The given number is Negative
 **For Grading System:**
 
 
-     -=Student Marks Entry System=-  
+ =========-Student Marks Entry System-==========  
 
 Enter marks for Chemistry (0 - 100): 67
 
