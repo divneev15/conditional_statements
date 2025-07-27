@@ -1,4 +1,4 @@
-# Cpp Experiment 3: Exploring Decision-Making Statements**
+# Cpp Experiment 3: Exploring Decision-Making Statements
 
 ### **Aim**
 
@@ -112,22 +112,40 @@ The given number is Negative
 
 **For Grading System:**
 
-```
-Enter marks in 5 subjects: 85 78 90 88 80  
-Total: 421  
-Percentage: 84.2%  
-Grade: B
-```
+--------------------------------------
+     Student Marks Entry System    
+---------------------------------------
+Enter marks for Chemistry (0 - 100): 67
+Enter marks for Mathematics (0 - 100): 87
+Enter marks for Physics (0 - 100): 99
+Enter marks for C-Programming (0 - 100): 55
+Enter marks for Python (0 - 100): 89
+
+---------STUDENT RESULT-------------
+Subject           Marks
+------------------------
+Chemistry: 67
+Mathematics: 87
+Physics: 99
+C-Programming: 55
+Python: 89
+------------------------
+Total Marks: 397/500
+Percentage : 79.40%
+Grade      : B+
+Status     : PASSED
+---------------------------------
 
 **For Quadrant Detection:**
 
-```
-Enter X and Y coordinates: -4 3  
-Output: The point lies in Quadrant II.
-```
+   2D Coordinate Quadrant Check
+---------=-------------------------
+Enter the X coordinate: 12
+Enter the Y coordinate: -1
 
----
+Result: The point lies in the Fourth Quadrant.
 
+# Conclusion
 This experiment helps in understanding **how C++ controls program flow** using **decision-making constructs**, which are essential for real-world logic and responsiveness.
 
-Let me know if you want the full code examples for all three programs!
+
