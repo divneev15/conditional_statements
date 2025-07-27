@@ -121,26 +121,41 @@ Enter marks for Physics (0 - 100): 99
 Enter marks for C-Programming (0 - 100): 55
 Enter marks for Python (0 - 100): 89
 
----------STUDENT RESULT-------------
+========== #STUDENT RESULT# ==========
+
 Subject           Marks
+
 ------------------------
 Chemistry: 67
+
 Mathematics: 87
+
 Physics: 99
+
 C-Programming: 55
+
 Python: 89
+
 ------------------------
 Total Marks: 397/500
+
 Percentage : 79.40%
+
 Grade      : B+
+
 Status     : PASSED
+
 ---------------------------------
+
 
 **For Quadrant Detection:**
 
    2D Coordinate Quadrant Check
+   
 ---------=-------------------------
+
 Enter the X coordinate: 12
+
 Enter the Y coordinate: -1
 
 Result: The point lies in the Fourth Quadrant.
